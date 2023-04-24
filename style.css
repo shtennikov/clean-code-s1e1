@@ -1,3 +1,4 @@
+
 /* Basic Style */
 
 .body {
@@ -18,7 +19,7 @@
 }
 
 .header .header__link {
-  font-family: fantasy, cursive;
+  font-family: 'Comic Sans MS', cursive;
 }
 
 @media (max-width: 768px) {
